@@ -1,0 +1,9 @@
+def reto():
+    flag = open("flag.txt").read()
+    arreglo = []
+    for caracter in flag:
+        sup3r_r4ndom= random.randint(4, 99999999)
+        sup3r_r4ndom = sup3r_r4ndom - 16 + 32 - 3
+        arreglo.append(str(sup3r_r4ndom * ord(caracter)))
+
+    send_to_client("[{}]\n".format(",".join(arreglo)).encode())
