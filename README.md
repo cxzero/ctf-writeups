@@ -1,2 +1,2 @@
 # ctf-writeups
-A series of many CTFs writeups made by me. 
+A series of many CTFs write-up solutions by me. 
