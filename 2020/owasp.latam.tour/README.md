@@ -4,3 +4,4 @@
 
 http://ctf.owasplatam.org/
 
+Please take a look at my [post](https://medium.com/@cxzero/owasp-latam-at-home-ctf-2020-write-up-81485800afcc) with the full write-up.
