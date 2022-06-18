@@ -4,4 +4,4 @@
 
 https://www.intigriti.com/1337uplive
 
-Please take a look at my [post](https://medium.com/@cxzero/1337up-live-intigriti-ctf-2022-f915bec6773) with the full write-up.
+Please take a look at my [post](https://medium.com/@cxzero/1337up-live-intigriti-ctf-2022-f915bec6773) with the full write-up of some challenges.
